@@ -11,13 +11,13 @@ input_data = {
     "dataframe_records": [
         {
             "propertyType": 3,
-            "rooms": 3,
-            "size": 86,
-            "buildYear": 1888,
-            "cluster_100m": 1,
+            "rooms": 2,
+            "size": 96,
+            "buildYear": 2017,
+            "cluster_100m": 0,
             "cluster_1000m": 0,
-            "avg_adjusted_sqm_price_100m": 44189,
-            "avg_adjusted_sqm_price_1000m": 42767,
+            "avg_adjusted_sqm_price_100m": 46855,
+            "avg_adjusted_sqm_price_1000m": 47731,
         }
     ]
 }

@@ -8,7 +8,7 @@ def dynamic_importer() -> str:
     # Here, we simulate importing or generating some data.
     # In a real-world scenario, this could be an API call, database query, or loading from a file.
     data = {
-        "propertyType": [3],
+        "propertyType": [3, 3],
         "rooms": [2, 6],
         "size": [40, 188],
         "buildYear": [1888, 2022],

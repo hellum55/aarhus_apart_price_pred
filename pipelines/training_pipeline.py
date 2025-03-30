@@ -19,7 +19,7 @@ def ml_pipeline():
 
     # Data Ingestion Step
     raw_data = data_ingestion_step(
-        file_path="C:/Users/Christian/Documents/Cand_merc/aarhus_apart_price_pred/data/archive.zip"
+        file_path="/Users/christianhellum/cand_merc/aarhus_apart_price_pred/data/archive.zip"
     )
 
     # Handling Missing Values Step
